@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Dhanush Kenkiri 👋</h1>
+<h1 align="left">Hi, I'm Dhanush 👋</h1>
 <p align="left"><b>Innovator · Full-Stack Engineer · Hackathon Winner · AI & Web3 Builder</b></p>
 
 ---
