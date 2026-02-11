@@ -1,11 +1,5 @@
-<!-- Dhanush Kenkiri | Professional Portfolio README -->
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/202181143?v=4" width="120" style="border-radius:50%;" alt="Dhanush Kenkiri"/>
-</p>
-
-<h1 align="center">Hi, I'm Dhanush Kenkiri 👋</h1>
-<p align="center"><b>Innovator · Full-Stack Engineer · Hackathon Winner · AI & Web3 Builder</b></p>
+<h1 align="left">Hi, I'm Dhanush Kenkiri 👋</h1>
+<p align="left"><b>Innovator · Full-Stack Engineer · Hackathon Winner · AI & Web3 Builder</b></p>
 
 ---
 
