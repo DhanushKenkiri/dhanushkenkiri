@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 I am a passionate full-stack developer and technology enthusiast who thrives on shipping innovative solutions across the cloud, web, AI, and blockchain. 
-I love rapid prototyping, scaling impactful products, and collaborating in dynamic teams—especially at hackathons.
+I love rapid prototyping, scaling impactful products, and collaborating in dynamic teams-especially at hackathons.
 
 - 💡 **Core Passions:** End-to-end product engineering, distributed systems, and impactful automation.
 - 🏆 **Hackathon Highlights:** Multiple-time hackathon finalist/winner.
