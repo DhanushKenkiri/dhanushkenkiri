@@ -81,7 +81,7 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 ---
 
 <details>
-  <summary><b>Fun Fact</b></summary>
+  <summary><b>Wanna know something secret 🤫 </b></summary>
   <blockquote>
     "I believe great technology comes from passionate building, caring teamwork, and sharing knowledge."
   </blockquote>
