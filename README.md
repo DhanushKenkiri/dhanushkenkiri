@@ -28,9 +28,9 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 
 ## My Current Projects
 
-- [**Cardano Hackathon 25 Submission**](https://github.com/DhanushKenkiri/CardanoHackathon-25-Submission) · *Latest blockchain innovation*
+- [**Cardano Hackathon 25 Submission**](https://github.com/DhanushKenkiri/CardanoHackathon-25-Submission) · *Latest blockchain innovation* (Hackathon Winner 🏆)
 - [**Solana Agent Marketplace**](https://github.com/DhanushKenkiri/SolanaAgentMarkeplace-DenovaHackathon) · *Agent economy on Solana*
-- [**Uniicon Avalanche Hackthorn**](https://github.com/DhanushKenkiri/Uniicon-AvalancheHackthon) · *Cross-chain dApps, Avalanche hackathon*
+- [**Uniicon Avalanche Hackthorn**](https://github.com/DhanushKenkiri/Uniicon-AvalancheHackthon) · *Cross-chain dApps, Avalanche hackathon* (Hackathon Winner 🏆)
 - [**India Codex Hackathon 25**](https://github.com/DhanushKenkiri/IndiaCodexHackathon--25-Submission) · *Award-winning ML solutions*
 
 - [**Mot2Lip-Hindi**](https://github.com/DhanushKenkiri/Mot2Lip-Hindi) · *Audio-to-lip AI for Hindi language*
@@ -40,7 +40,7 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 
 - [**ConorProtocol**](https://github.com/DhanushKenkiri/ConorProtocol) · *P2P immutable contract system*
 - [**Wifi-Attendance**](https://github.com/DhanushKenkiri/Wifi-Attendance) · *WiFi-enabled attendance system*
-- [**Project-Agora**](https://github.com/DhanushKenkiri/Project-Agora) · *An ai agent which can help you trade nft's automatically*
+- [**Project-Agora**](https://github.com/DhanushKenkiri/Project-Agora) · *An ai agent which can help you trade nft's automatically* (Hackathon Winner 🏆)
 - [**Project-NVK**](https://github.com/DhanushKenkiri/Project-NVK) · *AI Lawyer for India* 
 
 - [**portfolio-website**](https://github.com/DhanushKenkiri/portfolio-website) · *My digital profile and showcase*
@@ -51,7 +51,7 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 - [**AdverseSensor**](https://github.com/DhanushKenkiri/AdverseSensor) · * Digital Advertising spam detector based on cookies*
 
 - [**ChargeX-Simulations**](https://github.com/DhanushKenkiri/ChargeX-Simulations) . *Blockchain charging module with realtime transaction using x402*
-- [**Medi-Bridge**](https://github.com/DhanushKenkiri/Medi-Bridge) · *A complete hospital management system*
+- [**Medi-Bridge**](https://github.com/DhanushKenkiri/Medi-Bridge) · *A complete hospital management system* (Hackathon Winner 🏆)
 - [**Parkngo**](https://github.com/DhanushKenkiri/Parkngo) · *Smart parking system for gated communities*
 - [**Project-DavidBhai**](https://github.com/DhanushKenkiri/Project-DavidBhai) · *An ai study guide similar to notebooklm*
 - [Full list of repositories →](https://github.com/DhanushKenkiri?tab=repositories)
