@@ -58,6 +58,11 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 
 ---
 
+![snake gif](https://github.com/DhanushKenkiri/dhanushkenkiri/blob/output/github-snake-dark.svg)
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
