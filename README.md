@@ -40,24 +40,20 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 
 - [**ConorProtocol**](https://github.com/DhanushKenkiri/ConorProtocol) · *P2P immutable contract system*
 - [**Wifi-Attendance**](https://github.com/DhanushKenkiri/Wifi-Attendance) · *WiFi-enabled attendance system*
-- [**Project-Agora**](https://github.com/DhanushKenkiri/Project-Agora)
-- [**Project-NVK**](https://github.com/DhanushKenkiri/Project-NVK)
-- [**Project-NVK-LanderPage**](https://github.com/DhanushKenkiri/Project-NVK-LanderPage)
-- [**project-nvk-cloud**](https://github.com/DhanushKenkiri/project-nvk-cloud)
-- [**smart-water-pump**](https://github.com/DhanushKenkiri/smart-water-pump)
+- [**Project-Agora**](https://github.com/DhanushKenkiri/Project-Agora) · *An ai agent which can help you trade nft's automatically*
+- [**Project-NVK**](https://github.com/DhanushKenkiri/Project-NVK) · *AI Lawyer for India* 
 
 - [**portfolio-website**](https://github.com/DhanushKenkiri/portfolio-website) · *My digital profile and showcase*
 - [**insta-duo-chat-clone**](https://github.com/DhanushKenkiri/insta-duo-chat-clone) · *Modern multi-user chat app*
-- [**brand-canvas-genie**](https://github.com/DhanushKenkiri/brand-canvas-genie)
+- [**brand-canvas-genie**](https://github.com/DhanushKenkiri/brand-canvas-genie) · *AI for digital branding and solutions*
 - [**StudyAlte**](https://github.com/DhanushKenkiri/StudyAlte) · *Education management app*
-- [**AdverseSensorFlutterFlow**](https://github.com/DhanushKenkiri/AdverseSensorFlutterFlow)
-- [**AdverseSensor**](https://github.com/DhanushKenkiri/AdverseSensor)
+- [**AdverseSensorFlutterFlow**](https://github.com/DhanushKenkiri/AdverseSensorFlutterFlow) · *A flutter project of User Advertising guardrail*
+- [**AdverseSensor**](https://github.com/DhanushKenkiri/AdverseSensor) · * Digital Advertising spam detector based on cookies*
 
-- [**ChargeX-Simulations**](https://github.com/DhanushKenkiri/ChargeX-Simulations) · [**Medi-Bridge**](https://github.com/DhanushKenkiri/Medi-Bridge)
-- [**Parkngo**](https://github.com/DhanushKenkiri/Parkngo)
-- [**Project-DA-RK**](https://github.com/DhanushKenkiri/Project-DA-RK)
-- [**Project-ADSRK**](https://github.com/DhanushKenkiri/Project-ADSRK)
-- [**Project-DavidBhai**](https://github.com/DhanushKenkiri/Project-DavidBhai)
+- [**ChargeX-Simulations**](https://github.com/DhanushKenkiri/ChargeX-Simulations) . *Blockchain charging module with realtime transaction using x402*
+- [**Medi-Bridge**](https://github.com/DhanushKenkiri/Medi-Bridge) · *A complete hospital management system*
+- [**Parkngo**](https://github.com/DhanushKenkiri/Parkngo) · *Smart parking system for gated communities*
+- [**Project-DavidBhai**](https://github.com/DhanushKenkiri/Project-DavidBhai) · *An ai study guide similar to notebooklm*
 - [Full list of repositories →](https://github.com/DhanushKenkiri?tab=repositories)
 
 ---
