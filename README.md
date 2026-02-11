@@ -75,9 +75,8 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/itsdsrk/) <!-- Update with your LinkedIn -->
-- ✉️ [Email](dhanush@actualte.tech)    <!-- Update with your email -->
-- 🧑‍💻 [GitHub](https://github.com/DhanushKenkiri)
+- (https://www.linkedin.com/in/itsdsrk/) <!-- Update with your LinkedIn -->
+- (dhanush@actualte.tech)    <!-- Update with your email -->
 
 ---
 
