@@ -28,10 +28,10 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 
 ## My Current Projects
 
-- [**Cardano Hackathon 25 Submission**](https://github.com/DhanushKenkiri/CardanoHackathon-25-Submission) · *Latest blockchain innovation* (Hackathon Winner 🏆)
+- [**Cardano Hackathon 25 Submission**](https://github.com/DhanushKenkiri/CardanoHackathon-25-Submission) · *Latest blockchain innovation*
 - [**Solana Agent Marketplace**](https://github.com/DhanushKenkiri/SolanaAgentMarkeplace-DenovaHackathon) · *Agent economy on Solana*
-- [**Uniicon Avalanche Hackthorn**](https://github.com/DhanushKenkiri/Uniicon-AvalancheHackthon) · *Cross-chain dApps, Avalanche hackathon* (Hackathon Winner 🏆)
-- [**India Codex Hackathon 25**](https://github.com/DhanushKenkiri/IndiaCodexHackathon--25-Submission) · *Award-winning ML solutions*
+- [**Uniicon Avalanche Hackthorn**](https://github.com/DhanushKenkiri/Uniicon-AvalancheHackthon) · *Cross-chain dApps, Avalanche hackathon*
+- [**India Codex Hackathon 25**](https://github.com/DhanushKenkiri/IndiaCodexHackathon--25-Submission) · *Award-winning ML solutions* (Hackathon Winner 🏆)
 
 - [**Mot2Lip-Hindi**](https://github.com/DhanushKenkiri/Mot2Lip-Hindi) · *Audio-to-lip AI for Hindi language*
 - [**Project-AgoraAI**](https://github.com/DhanushKenkiri/Project-AgoraAI) · *Conversational AI and neural models*
