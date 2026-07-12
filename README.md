@@ -76,7 +76,7 @@ I love rapid prototyping, scaling impactful products, and collaborating in dynam
 ## 📫 Connect
 
 - (https://www.linkedin.com/in/itsdsrk/) <!-- Update with your LinkedIn -->
-- (dhanush@actualte.tech)    <!-- Update with your email -->
+- (dhanush@lorvio.tech)    <!-- Update with your email -->
 
 ---
 
